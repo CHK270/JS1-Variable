@@ -1,12 +1,10 @@
 // Assigner à la variable firstName votre prénom, sous forme de chaîne de caractères
 
 // Ecrivez votre code ici
-//
-//
-//
-//
-//
-//
+let firstName="Coulibaly Checkine";
+console.log(firstName);
+0
+
 // Ne modifiez pas le code ci-dessous
 
 if (typeof firstName !== 'undefined') {
